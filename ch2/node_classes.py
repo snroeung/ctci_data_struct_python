@@ -54,7 +54,7 @@ if __name__ == "__main__":
     n1.next = n2
     n2.next = n3
 
-    # singlyLinkedList.addToEnd(4)
-    # singlyLinkedList.addToFront(0)
-    # singlyLinkedList.delete(2)
-    # print(singlyLinkedList)
+    singlyLinkedList.addToEnd(4)
+    singlyLinkedList.addToFront(0)
+    singlyLinkedList.delete(2)
+    print(singlyLinkedList)
